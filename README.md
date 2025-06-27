@@ -50,7 +50,18 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam021624&theme=onedark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam021624&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api?username=sam021624&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api/top-langs/?username=sam021624&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
+
+
+
+
