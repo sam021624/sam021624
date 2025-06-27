@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Mobile Developer from the Philippines</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sam021624&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sam021624&theme=onedark" alt="GitHub Profile Trophies" />
   </a>
