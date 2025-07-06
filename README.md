@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **GGH Software**
+- 🔭 Currently working at **GGH Software** and ***Ayos PH***
 - 🌱 Learning more about **state management in Flutter**
 - 📫 Reach me at **sambraca8@gmail.com**
 
