@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Samuel Bracamonte</h1>
-<h3 align="center">A passionate Mobile Developer from the Philippines</h3>
 
 ### 👨‍💻 About Me
 
