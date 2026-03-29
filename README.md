@@ -42,6 +42,11 @@
 
 ### 📊 GitHub Stats
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sam021624&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats-theta-flax-88.vercel.app/api?username=sam021624&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
 </div>
