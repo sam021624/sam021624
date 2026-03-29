@@ -43,17 +43,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam021624&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api?username=sam021624&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api?username=sam021624&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&locale=en" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api/top-langs/?username=sam021624&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats-theta-flax-88.vercel.app/api/top-langs/?username=sam021624&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
